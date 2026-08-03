@@ -14,6 +14,7 @@ degli allenamenti.
 | Repository | Descrizione |
 |---|---|
 | [`youth-cycling-coach`](https://github.com/progetto-ciclismo/youth-cycling-coach) | Prompt strutturato per l'analisi dei test e la programmazione settimanale nel ciclismo giovanile, basato su coefficienti di soglia tarati sulla fisiologia pediatrica. Agnostico rispetto al modello: adapter per Claude, Gemini e OpenAI. |
+| [`club-comms-toolkit`]([https://github.com/progetto-ciclismo/cycling-races-gpx](https://github.com/progetto-ciclismo/club-comms-toolkit)) | Prompt strutturati per la comunicazione di una società ciclistica giovanile: post social e articoli per il sito. Due skill con identità condivisa, allineate ai contenuti realmente pubblicati. Agnostico rispetto al modello: adapter per Claude, Gemini e OpenAI. A.S.D. Progetto Ciclismo – Rodengo Saiano. |
 | [`cycling-races-gpx`](https://github.com/progetto-ciclismo/cycling-races-gpx) | Percorsi GPX e mappe delle gare. |
 
 ## Cosa trovi qui
